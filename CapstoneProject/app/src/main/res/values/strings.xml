@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sangsangpark</string>
+    <string name="hansung">한성대학교</string>
+    <string name="section1">상상파크</string>
+    <string name="section1_position">지상 1층 오픈스튜디오</string>
+    <string name="section2">상상파크플러스</string>
+</resources>
